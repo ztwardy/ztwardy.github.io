@@ -1,4 +1,7 @@
 # ztwardy.github.io
 Personal test
 
-Add new PoSh file Add_Cmd_PoSh-Here.ps1
+1 - Add new PoSh file Script1.ps1
+2 - Remove Add_Cmd_poSh-Here.ps1
+3 - Add directory Documentation
+
